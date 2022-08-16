@@ -1,0 +1,9 @@
+{
+	"name": "adflakechila",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "00c0a9d7-0579-4ce3-a9da-646976c78e0d",
+		"tenantId": "f5a46392-5d77-4214-a1f5-9294c850dd1c"
+	}
+}
