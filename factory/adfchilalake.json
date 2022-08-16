@@ -1,0 +1,9 @@
+{
+	"name": "adfchilalake",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "83abdd5b-eb9b-40d8-9971-7a832b0194d1",
+		"tenantId": "f5a46392-5d77-4214-a1f5-9294c850dd1c"
+	}
+}
